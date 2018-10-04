@@ -1,6 +1,6 @@
-# Git DEMO - NSS Training Course 2018
+# Git DEMO
 
-This repository is used for NSS Trainin Course 2018.
+This repository is used for practicing Git
 
 ---
 ## Contributor
